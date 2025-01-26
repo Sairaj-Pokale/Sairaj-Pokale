@@ -5,7 +5,6 @@
 - 🚀 What I Do
 
   - Research Assistant @ USC Stevens Neuroimaging and Informatics Institute
-  - Innovating with CUDA, React, and Android for dynamic, scalable solutions
   - Crafting visualizations, predictive models, and seamless user experiences
 
 - 🌱 I’m currently learning **CUDA, JAX**
