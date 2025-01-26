@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sairaj</h1>
 <h3 align="center">💻 MS in Computer Science (AI) @ USC | 🌌 Astronomy, 🧠 Neuroscience & 🤖 AI Enthusiast </h3>
-<h3 align="center"> I specialize in blending cutting-edge AI with real-world challenges, from processing petabyte-scale datasets for neuroimaging to building predictive models for complex systems. As a passionate developer, I thrive at the intersection of machine learning, software development, and creative problem-solving. </h3>
+<h3 align="left"> I specialize in blending cutting-edge AI with real-world challenges, from processing petabyte-scale datasets for neuroimaging to building predictive models for complex systems. As a passionate developer, I thrive at the intersection of machine learning, software development, and creative problem-solving. </h3>
 
 - 🚀 What I Do
 
